@@ -1,2 +1,1 @@
-fhfghfhhfhfg
-oiuo jnohfui 
+Mejorando el texto inicial para el primer repositorio en git
